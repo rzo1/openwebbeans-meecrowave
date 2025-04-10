@@ -74,7 +74,7 @@
 
 
     <junit.version>4.13.2</junit.version>
-    <tomcat.version>10.1.31</tomcat.version>
+    <tomcat.version>10.1.40</tomcat.version>
     <openwebbeans.version>4.0.3</openwebbeans.version>
     <cxf.version>4.1.1</cxf.version>
     <johnzon.version>2.0.1</johnzon.version>
